@@ -15,4 +15,4 @@ Write code to:-
 - delete cricket collection completely.
 - delete sports database.
 - check which database you are connected to ?
-- connect to test database
+- connect to test database // use test
