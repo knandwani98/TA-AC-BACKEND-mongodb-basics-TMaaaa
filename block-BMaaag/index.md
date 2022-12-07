@@ -9,3 +9,14 @@ Write code to:-
 - insert multiple document using insertMany command
 - find all documents from mountains
 - find a single document using name
+
+db.himalayas.insertMany([
+{
+name: "Mt. Everest",
+height: "8484 mtrs"
+},
+{
+name: "K2",
+height: "8611 mtrs"
+},
+])
