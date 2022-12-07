@@ -13,10 +13,10 @@ Write code to:-
 db.himalayas.insertMany([
 {
 name: "Mt. Everest",
-height: "8484 mtrs"
+height: "8484 mtrs."
 },
 {
 name: "K2",
-height: "8611 mtrs"
+height: "8611 mtrs."
 },
 ])
