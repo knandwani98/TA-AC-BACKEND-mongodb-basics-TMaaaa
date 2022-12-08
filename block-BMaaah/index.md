@@ -47,6 +47,8 @@ Write code to execute below expressions.
 
 - Write the differences here ?
 
+//$set updates particular tag but without $set it defaults to just particular tag n else info will be deleted
+
 13. find an article using title and increment it's auhtor's age by 5.
 
 14. Delete a document using \_id field with `db.COLLECTION_NAME.remove()`.
@@ -169,5 +171,5 @@ Insert above data into database to perform below queries:-
 
 - Find all males who play cricket.
 - Update user with extra golf field in sports array whose name is "Steve Ortega".
-- Find all users who play either 'football' or 'cricket'.
+- Find all users who play either 'football' or 'cricket'. //
 - Find all users whose name includes 'ri' in their name.
